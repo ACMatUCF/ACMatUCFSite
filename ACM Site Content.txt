@@ -1,0 +1,145 @@
+About
+
+	What is ACM?
+
+		The Association for Computing Machinery is an international scientific and educational organization dedicated to advancing the arts, sciences, and applications of information technology. With a world-wide membership, ACM is a leading resource for computing professionals and students working in various fields of Information Technology and for interpreting the impact of information technology on society.
+	
+	What is ACM @ UCF?
+
+		The local student chapter is open to all interested students. Weekly meetings include guest lecturers from the industry, UCF, and other universities.
+		
+	Advisors
+
+		Dr. Gary T. Leavens
+
+			Chair, UCF's Computer Science Division
+
+
+			Gary T. Leavens' Department Page	http://www.eecs.ucf.edu/~leavens/
+			
+		Dr. Arup Guha
+
+			Professor, UCF's Computer Science Division
+
+
+			Arup Guha's Department Page 	http://www.cs.ucf.edu/~dmarino/ucf/
+			
+	Officers
+	
+		Extended Board
+		
+			Activities Coordinator
+
+			Community Outreach Coordinator
+
+			Event Coordinator
+
+			Historian
+
+			Graduate Relations Coordinator
+
+			Social Coordinator
+
+			Webmaster
+			
+		Executive Board
+			
+			President
+
+			Vice President
+
+			Secretary
+
+			Treasurer
+
+			Public Relations Director
+			
+		SIG Coordinators
+		
+			SIGAI
+
+			SIGCSE
+
+			SIGGRAPH
+
+			SIGITE
+
+			SIGMOBILE
+
+			SIGWEB
+
+SIGS	
+	
+	SIGAI
+
+		SIGAI focuses mainly on, well, artificial intelligence. We work in projects that work towards making a computer optimize itself based off of the responses of the user. Currently, we are working on a program that tracks the users hand via webcam, and performs tasks based off of the users hand movements.
+
+
+	SIGBED
+
+		ACM@UCF's SIGBED​​​ is a group for UCF students who are interested in learning about and developing Embedded Systems. 
+
+		No prior experience with electronics or programming is necessary - ​just a desire to learn and ​a commitment to SIGBED's projects!​​
+
+
+	SIGCSE
+
+		This group is for people who want to learn about programming! First/Second year in CS/IT/CSE? Just interested in programming and computers? Join ACM SIGCSE @ UCF!
+
+		This SIG would be nothing without teachers. SIGCSE also invites teachers to join up and spread the wealth of knowledge you have to offer.
+
+
+	SIGITE
+
+		ACM @ UCF's SIGITE is a group for those interested in Information Technology.  Looking to gain actual experience implementing and managing infrastructure systems? This is the place for you!
+
+		No prior knowledge is required, just a willingness to learn!
+		
+	SIGGRAPH
+
+		ACM @ UCF's SIGGRAPH focuses on research and projects involving video games and/or graphics techniques.
+
+		Game design, programming, graphic design, linear/matrix math, and more come together in a unique development environment.
+
+		No previous experience is necessary, just a passion to learn and create compelling projects and research!​
+
+	 
+	​SIGMOBILE
+
+		ACM @ UCF's SIGMOBILE is a project group within ACM @ UCF. We focus on mobile app development for Windows Phone and Android and are always open to new project proposals.
+
+		No previous mobile development experience is necessary to join this SIG group -just a passion for mobile development and a commitment to SIGMOBILE’s projects!
+
+	 
+	SIGWEB
+		ACM @ UCF's SIGWEB is a project group within ACM @ UCF. We focus on various aspects of web development and are always open to new project proposals.
+		No previous web development experience is necessary to join this SIG group -just a passion for the web and a commitment to SIGWEB’s projects!​
+		
+Events
+
+Blog
+
+Contact
+
+	Subscribe
+	
+Sponsors
+
+	For contributing to the success of ACM @ UCF, a heartfelt thank you goes out to our sponsors!
+
+	​
+	Gold ​
+		ROI Revolution
+
+
+	Silver
+		(N/A)
+
+
+	Bronze
+		(N/A)
+
+	Special Thanks
+		CECS Technical Support
+		
+ACM @ UCF : Advancing Computing as a Science and a Profession 
