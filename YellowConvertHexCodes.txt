@@ -1,0 +1,17 @@
+#e3c800 og yellow   	dc4fad og pink
+ffe733			9a165a hover pink
+b39e00			f472d0 divider pink
+#e3c800			dc4fad 	.d-menu pink
+#e3c800			dc4fad 	.d-menu pink not disabled
+ffe733			9a165a 	.d-menu pink not disabled hover
+ffe733			9a165a 	.d-menu pink hover
+b39e00                       f472d0 	.d-menu .divider
+b39e00			f472d0 	.d-menu .divider:hover
+same			555555	.app-bar-element.disabled,
+same				.app-bar-element.disabled a
+ffe733			9a165a	.app-bar-pullbutton:hover
+#e3c800 og yellow	dc4fad	.app-bar-drop-container
+#e3c800			same	.app-bar-drop-container:before
+b39e00			f472d0	.app-bar-pullmenu .app-bar-menu 
+#e3c800			dc4fad	.app-bar-pullmenu .app-bar-menu li:hover
+ffe733			9a165a	.app-bar-pullmenu .app-bar-menu li:hover a
