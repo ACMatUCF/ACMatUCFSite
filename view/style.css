@@ -1,5 +1,35 @@
 .center {
-    margin: auto;
-    width: 70%;
+    margin: auto !important;
     padding: 10px;
+}
+
+.app-bar .app-bar-menu {
+	display:block;
+	float:none !important;
+	margin:0;
+	padding:0;
+	width: 40%;
+	color: black !important;
+}
+.app-bar .app-bar-menu>li,.app-bar .app-bar-menu>li>a {
+	line-height:3.125rem;
+	padding:0 .625rem;
+	font-size:1rem;
+	cursor:pointer;
+	color:inherit;
+	display:block;
+	float:none !important;
+	position:relative;
+	height:3.125rem;
+	display: table-cell;
+}
+a{
+	color: black !important;
+}
+
+.app-bar .app-bar-menu > li:active, 
+.app-bar .app-bar-menu > li:hover, 
+.app-bar .app-bar-menu > li > a:active, 
+.app-bar .app-bar-menu > li > a:hover {
+    background-color: white !important;
 }
